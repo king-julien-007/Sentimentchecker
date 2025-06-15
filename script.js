@@ -1,4 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
+    
   document.getElementById("myButton").addEventListener("click", async function () {
     const input = document.getElementById("myinput").value;
 
